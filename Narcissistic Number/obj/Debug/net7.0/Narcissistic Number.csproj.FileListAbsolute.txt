@@ -1,0 +1,14 @@
+D:\Program Files\Desktop\Narcissistic Number\Narcissistic Number\bin\Debug\net7.0\Narcissistic Number.exe
+D:\Program Files\Desktop\Narcissistic Number\Narcissistic Number\bin\Debug\net7.0\Narcissistic Number.deps.json
+D:\Program Files\Desktop\Narcissistic Number\Narcissistic Number\bin\Debug\net7.0\Narcissistic Number.runtimeconfig.json
+D:\Program Files\Desktop\Narcissistic Number\Narcissistic Number\bin\Debug\net7.0\Narcissistic Number.dll
+D:\Program Files\Desktop\Narcissistic Number\Narcissistic Number\bin\Debug\net7.0\Narcissistic Number.pdb
+D:\Program Files\Desktop\Narcissistic Number\Narcissistic Number\obj\Debug\net7.0\Narcissistic Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program Files\Desktop\Narcissistic Number\Narcissistic Number\obj\Debug\net7.0\Narcissistic Number.AssemblyInfoInputs.cache
+D:\Program Files\Desktop\Narcissistic Number\Narcissistic Number\obj\Debug\net7.0\Narcissistic Number.AssemblyInfo.cs
+D:\Program Files\Desktop\Narcissistic Number\Narcissistic Number\obj\Debug\net7.0\Narcissistic Number.csproj.CoreCompileInputs.cache
+D:\Program Files\Desktop\Narcissistic Number\Narcissistic Number\obj\Debug\net7.0\Narcissistic Number.dll
+D:\Program Files\Desktop\Narcissistic Number\Narcissistic Number\obj\Debug\net7.0\refint\Narcissistic Number.dll
+D:\Program Files\Desktop\Narcissistic Number\Narcissistic Number\obj\Debug\net7.0\Narcissistic Number.pdb
+D:\Program Files\Desktop\Narcissistic Number\Narcissistic Number\obj\Debug\net7.0\Narcissistic Number.genruntimeconfig.cache
+D:\Program Files\Desktop\Narcissistic Number\Narcissistic Number\obj\Debug\net7.0\ref\Narcissistic Number.dll
